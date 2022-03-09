@@ -1,5 +1,5 @@
 
-# 🖤Disease prediction using mahcine learning 🖤
+# 🖤🏣🌡Disease prediction using mahcine learning 🌡🖤🏣
 
 Diseases of often become dangerous and fatal when they go unnoticed.People of then ignore the symptoms which ultimately leads to death.
 
