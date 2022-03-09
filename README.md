@@ -9,6 +9,7 @@ datasets of the respective disease.
 In order to make predictions on diabetes various factors like glucose levels,blood pressure,skin thickness etc have been taken into account.The user must enter these values based on which they get to see wheather they actually have diabetes or not
 .Out of the many features only some of them have been selected based on their contribution to the prediction of the disease.This can be explained using the feature importance graph.The same applies to prediction of heart disease as well
 .
+![](Screenshot%20(611).png)
 
 
 At this point this system can predict heart diseases with an accuracy of 82 percentage and diabetes with an accuracy of 77 percentage.
