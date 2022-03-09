@@ -41,5 +41,5 @@ The heart disease dataset has been deprecated so the link redirects to a github 
 ## Authors
 
 - [Vignesh.S](https://github.com/vign2020/)
-- [Jay Kumar Sahoo](https://github.com/vign2020/)
+- [Jay Kumar Sahoo](https://github.com/Jay8181)
 
